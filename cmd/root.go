@@ -15,7 +15,7 @@ var configPath string
 
 var rootCmd = &cobra.Command{
 	Use:   "golang-config-best-practice",
-	Short: "A brief description of your application",
+	Short: "A client for developping best practice of how to load config",
 }
 
 func Execute() {
